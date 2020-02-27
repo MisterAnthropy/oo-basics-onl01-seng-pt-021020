@@ -4,4 +4,4 @@ class Shoe
   end
   
 end
-brand.new("Nike")
+Shoe.new("Nike")
